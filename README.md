@@ -8,4 +8,4 @@
 🌐 Actively building real-world solutions with AI and Cloud
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/raajtrivedi)  
-📫 Connect with me on [GMail](raajtrivedi013@gmail.com)
+📫 Connect with me on [EMail](raajtrivedi013@gmail.com)
