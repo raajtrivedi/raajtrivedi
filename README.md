@@ -1,4 +1,4 @@
-## Hi there 👋
+## **Hi there 👋**
 
 👋 Hi, I'm Raj Trivedi  
 🎓 Final Year CSE Student | Gujarat Technological University  
