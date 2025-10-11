@@ -1,11 +1,11 @@
 ## **Hi there 👋**
 
-👋 Hi, I'm Raj Trivedi  
-🎓 Final Year CSE Student | Gujarat Technological University  
-💻 Passionate about Python | Machine Learning | Data Science  
-📊 Developer of the Ecommerce Sales Dashboard Project  
-🧠 Intern @ BrainyBeam | ML & Data Science  
-🌐 Actively building real-world solutions with AI and Cloud
+👋 Hi, I'm **Raj Trivedi**  
+🎓 B.E. in Computer Science and Engineering, Class of 2025 | Gujarat Technological University  
+💻 Passionate about **Python**, **Machine Learning**, and **Data Science**  
+🧠 Former Intern @ **BrainyBeam** | Machine Learning & Data Science  
+☁️ Enthusiast in **AI + Cloud Integration**, building real-world intelligent solutions  
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rajtrivedi-)  
-📫 Connect with me on [EMail](raajtrivedi013@gmail.com)
+📫 Connect with me:  
+- [LinkedIn](https://www.linkedin.com/in/rajtrivedi-)  
+- [EMail](mailto:raajtrivedi013@gmail.com)
