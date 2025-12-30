@@ -8,4 +8,4 @@
 
 📫 Connect with me:  
 - [LinkedIn](https://www.linkedin.com/in/rajtrivedi-)  
-- [EMail](mailto:raajtrivedi013@gmail.com)
+- [EMail](mailto:work.rajtrivedi@gmail.com)
